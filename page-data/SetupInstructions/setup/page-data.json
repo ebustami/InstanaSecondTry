@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-setup-instructions-setup-mdx",
+    "path": "/SetupInstructions/setup/",
+    "result": {"pageContext":{"frontmatter":{"description":"Setup Instructions / Setup","title":"Setup Instructions / Setup"},"relativePagePath":"/SetupInstructions/setup.mdx","titleType":"page","MdxNode":{"id":"8f3d635b-4b75-51dc-91fe-3e4ef3030075","children":[],"parent":"3062e55a-e1e4-5509-8679-92c9d7937b4f","internal":{"content":"","type":"Mdx","contentDigest":"d0921a171e011f803bf98d7da77cef5a","owner":"gatsby-plugin-mdx","counter":193},"frontmatter":{"description":"Setup Instructions / Setup","title":"Setup Instructions / Setup"},"exports":{},"rawBody":"","fileAbsolutePath":"C:/Users/905693897/InstanaSecondTry/src/pages/SetupInstructions/setup.mdx"}}},
+    "staticQueryHashes": ["1364590287","137577622","2102389209","2456312558","2746626797","3018647132","3037994772","768070550"]}
